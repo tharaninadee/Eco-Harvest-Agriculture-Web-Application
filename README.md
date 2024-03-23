@@ -1,2 +1,2 @@
 # Eco-Harvest-Agriculture-Web-Application
-An Agriculture themed web application
+This project focuses on building and deploying a web application specifically for Eco Harvest, a business with an agricultural focus. A wide range of features in this online application are designed to make life easier and improve the user and administrative experience. The various user panels, the reliable question submission system, the simple online registration process, and the well-organized backend architecture are noteworthy features. 
